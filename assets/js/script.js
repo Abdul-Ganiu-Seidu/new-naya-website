@@ -26,7 +26,6 @@ document.addEventListener("DOMContentLoaded", () => {
             ["index.html", "Home"],
             ["about.html", "About"],
             ["leadership.html", "Leadership"],
-            ["advocacy.html", "Advocacy"],
             ["programs.html", "Programs"],
             ["projects.html", "Projects"],
             ["news.html", "News"],
@@ -82,9 +81,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         <div>
           <h4>Contact</h4>
-          <p>[Official phone]</p>
-          <p>[Official email]</p>
-          <p>[Office/location]</p>
+          <p> 0243420903 | 0244570426 | 0244366287</p>
+          <p>nanumbayouthassociation@gmail.com</p>
+          <p>Bimbilla</p>
         </div>
 
         <div>
