@@ -98,7 +98,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       <div class="wrap copyright">
         © ${new Date().getFullYear()} Nanumba Youth Association.
-        All Rights Reserved. · Website by [Developer]
+        All Rights Reserved. · Website by G-Tech | 0242664489
       </div>
     </footer>`;
 });
