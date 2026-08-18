@@ -426,3 +426,10 @@ footer {
   object-fit: contain;
   display: block;
 }
+.hero-logo img {
+  width: 180px;
+  height: 180px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 25px;
+}
